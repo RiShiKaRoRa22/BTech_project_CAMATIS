@@ -1,0 +1,5 @@
+{
+  "max_buses": 15,
+  "frequency_limit": 10,
+  "optimization_preference": "balanced"
+}
